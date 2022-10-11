@@ -12,7 +12,8 @@
 | 10 | 使用者訓練 | 20 | 7,8 |
 | 11 | 使用者測試 | 25 | 9,10 |
 ***
-
+### PERT/CPM圖
+![image](https://github.com/C109118222/2022-3B/blob/main/cpm.png)
 ***
 ### 甘特圖
 ```mermaid
@@ -51,7 +52,10 @@ gantt
     
     section 使用者測試
     25      :a11, after a9  , 25d
-    
 ```
+***
+### 關鍵路徑
+![image](https://github.com/C109118222/2022-3B/blob/main/key.png)
+
 
 ---
